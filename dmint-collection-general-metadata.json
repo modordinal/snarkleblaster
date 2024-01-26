@@ -1,0 +1,14 @@
+{
+  "name": "Snarkleblaster",
+  "desc": "Snarkleblaster test by  Modordinal",
+  "image": "atom:btc:dat:7223a536b8ec25f26d6868db0459f0de388f6a8452b0860d239148cf9e0826efi0/logo.png",
+  "legal": {
+    "terms": "...",
+    "license": "CC"
+  },
+  "links": {
+    "x": {
+      "v": "https://twitter.com/modordinal"
+    }
+  }
+}
